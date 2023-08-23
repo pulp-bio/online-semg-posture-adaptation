@@ -7,11 +7,11 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 
-from alignments import dataset as ds
-from alignments.learning import mlpuniboinail as mui
-from alignments.learning import learning as learn
-from alignments.learning import quantization as quant
-from alignments.learning import goodness as good
+from online_semg_posture_adaptation import dataset as ds
+from online_semg_posture_adaptation.learning import mlpuniboinail as mui
+from online_semg_posture_adaptation.learning import learning as learn
+from online_semg_posture_adaptation.learning import quantization as quant
+from online_semg_posture_adaptation.learning import goodness as good
 
 # %%
 DOWNSAMPLING_FACTOR = 1
