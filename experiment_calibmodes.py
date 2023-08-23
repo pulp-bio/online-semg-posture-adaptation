@@ -8,11 +8,11 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 
-from alignments import dataset as ds
-from alignments.learning import mlpuniboinail as mui
-from alignments.learning import learning as learn
-from alignments.learning import quantization as quant
-from alignments import protocol
+from online_semg_posture_adaptation import dataset as ds
+from online_semg_posture_adaptation.learning import mlpuniboinail as mui
+from online_semg_posture_adaptation.learning import learning as learn
+from online_semg_posture_adaptation.learning import quantization as quant
+from online_semg_posture_adaptation import protocol
 
 # %%
 DOWNSAMPLING_FACTOR = 1
