@@ -3,8 +3,8 @@ import enum
 
 import numpy as np
 
-from alignments import dataset as ds
-from alignments.online import covariance as cov
+from online_semg_posture_adaptation import dataset as ds
+from online_semg_posture_adaptation.online import covariance as cov
 
 
 def symm_orth_no_eig(
