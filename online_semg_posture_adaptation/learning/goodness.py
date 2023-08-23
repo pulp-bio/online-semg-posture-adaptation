@@ -8,7 +8,7 @@ from sklearn import metrics as m
 import torch  # just for tensors and datatypes
 import torch.nn.functional as F
 
-from alignments import dataset as ds
+from online_semg_posture_adaptation import dataset as ds
 
 
 def balanced_crossentropy_score(
