@@ -5,10 +5,10 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 import torch.nn  # just for nn.Module
 
-from alignments import dataset as ds
-from alignments.online import pca as opca
-from alignments.learning import learning as learn
-from alignments.learning import goodness as good
+from online_semg_posture_adaptation import dataset as ds
+from online_semg_posture_adaptation.online import pca as opca
+from online_semg_posture_adaptation.learning import learning as learn
+from online_semg_posture_adaptation.learning import goodness as good
 
 
 def calibration_experiment(
