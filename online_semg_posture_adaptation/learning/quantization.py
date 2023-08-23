@@ -9,9 +9,9 @@ from torch import nn
 import quantlib.editing.graphs as qg
 import quantlib.editing.editing as qe
 
-from alignments.learning import settings
-from alignments.learning import learning as learn
-from alignments.learning import goodness as good
+from online_semg_posture_adaptation.learning import settings
+from online_semg_posture_adaptation.learning import learning as learn
+from online_semg_posture_adaptation.learning import goodness as good
 
 
 DEVICE = settings.DEVICE
