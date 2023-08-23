@@ -11,9 +11,9 @@ import sklearn.utils as sklutils
 import torch
 import torch.utils.data
 
-from alignments import dataset as ds
-from alignments.learning.settings import DEVICE
-from alignments.learning import goodness as good
+from online_semg_posture_adaptation import dataset as ds
+from online_semg_posture_adaptation.learning.settings import DEVICE
+from online_semg_posture_adaptation.learning import goodness as good
 
 
 NUM_EPOCHS = 16  # epochs of floating-point training
