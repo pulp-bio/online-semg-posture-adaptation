@@ -4,7 +4,7 @@ import torch  # for tensors
 from torch import nn
 import torchinfo
 
-from alignments import dataset as ds
+from online_semg_posture_adaptation import dataset as ds
 
 
 """
