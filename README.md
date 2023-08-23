@@ -15,7 +15,7 @@ Code to reproduce our paper "Online Unsupervised Arm Posture Adaptation for sEMG
 
 
 ## Authors
-This work was realized mainly at the [Energy-Efficient Embedded Systems Laboratory (EEES Lab)](https://dei.unibo.it/it/ricerca/laboratori-di-ricerca/eees) of University of Bologna, (Italy), by:
+This work was realized mainly at the [Energy-Efficient Embedded Systems Laboratory (EEES Lab)](https://dei.unibo.it/it/ricerca/laboratori-di-ricerca/eees) of University of Bologna (Italy), by:
 - [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en) (Software, Investigation)
 - [Mattia Orlandi](https://orcid.org/0000-0002-8553-3273)
 - [Elisa Donati](https://scholar.google.com/citations?hl=en&user=03ZYhbIAAAAJ) (Supervision, Conceptualization)
