@@ -277,10 +277,10 @@ def do_training(
                 deltat_epoch_s,
             ))
 
-    history['epoch'][idx_epoch] = {
-        'training': metrics_train_epoch,
-        'validation': metrics_valid_epoch,
-    }
+        history['epoch'][idx_epoch] = {
+            'training': metrics_train_epoch,
+            'validation': metrics_valid_epoch,
+        }
 
     return model, history, yout_train, yout_valid
 
