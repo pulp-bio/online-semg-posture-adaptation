@@ -28,9 +28,15 @@ This work was realized mainly at the [Energy-Efficient Embedded Systems Laborato
 ## Citation
 If you would like to reference the project, please cite the following paper:
 ```
-@INPROCEEDINGS{10164372,
-  }
-
+@INPROCEEDINGS{zanghieri2023online,
+  author={Zanghieri, Marcello and Orlandi, Mattia and Donati, Elisa and Gruppioni, Emanuele and Benini, Luca and Benatti, Simone},
+  booktitle={2023 IEEE Biomedical Circuits and Systems Conference (BioCAS)}, 
+  title={Online Unsupervised Arm Posture Adaptation for sEMG-based Gesture Recognition on a Parallel Ultra-Low-Power Microcontroller}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/BioCAS58349.2023.10388902}}
 ```
 
 
