@@ -15,13 +15,13 @@ Code to reproduce our paper "Online Unsupervised Arm Posture Adaptation for sEMG
 
 
 ## Authors
-This work was realized mainly at the [**Energy-Efficient Embedded Systems Laboratory (EEES Lab)**](https://dei.unibo.it/it/ricerca/laboratori-di-ricerca/eees) of University of Bologna (Italy), by:
-- [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en)
-- [Mattia Orlandi](https://scholar.google.com/citations?hl=en&user=It3fdrEAAAAJ)
-- [Elisa Donati](https://scholar.google.com/citations?hl=en&user=03ZYhbIAAAAJ)
-- [Emanuele Gruppioni](https://scholar.google.it/citations?user=PgLLxVsAAAAJ&hl=it)
-- [Luca Benini](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ)
-- [Simone Benatti](https://scholar.google.com/citations?hl=en&user=8Fbi_kwAAAAJ)
+This work was realized mainly at the [**Energy-Efficient Embedded Systems Laboratory (EEES Lab)**](https://dei.unibo.it/it/ricerca/laboratori-di-ricerca/eees) of University of Bologna (Italy) by:
+- [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en) - University of Bologna
+- [Mattia Orlandi](https://scholar.google.com/citations?hl=en&user=It3fdrEAAAAJ) - University of Bologna
+- [Dr. Elisa Donati](https://scholar.google.com/citations?hl=en&user=03ZYhbIAAAAJ) - INI institute (University of Zürich, ETH Zürich)
+- [Prof. Emanuele Gruppioni](https://scholar.google.it/citations?user=PgLLxVsAAAAJ&hl=it) - University of Bologna, INAIL Prosthesis Centre in Vigorso di Budrio (Bologna)
+- [Prof. Luca Benini](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ) - University of Bologna, ETH Zürich
+- [Prof. Simone Benatti](https://scholar.google.com/citations?hl=en&user=8Fbi_kwAAAAJ) - University of Modena & Reggio Emilia, University of Bologna
 
 
 
