@@ -3,7 +3,7 @@
 
 
 ## Introduction
-The repository contains the code developed for our paper M. Zanghieri _et al._, “Online Unsupervised Arm Posture Adaptation for sEMG-based Gesture Recognition on a Parallel Ultra-Low-Power Microcontroller,” _IEEE BioCAS_, 2023 [[1]](#1).
+This repository contains the code developed for our paper M. Zanghieri _et al._, “Online unsupervised arm posture adaptation for sEMG-based gesture recognition on a parallel ultra-low-power microcontroller,” _IEEE BioCAS_, 2023 [[1]](#1).
 
 We also release our [**UniBo-INAIL dataset**](https://github.com/pulp-bio/unibo-inail-semg-dataset/tree/main) for research on multi-subject, multi-day, and multi-posture sEMG.
 
